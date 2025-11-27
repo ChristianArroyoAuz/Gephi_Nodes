@@ -1,1 +1,8 @@
+# Forzar todos los archivos Gephi
 *.gexf linguist-language=XML
+*.gefx linguist-language=XML
+*.graphml linguist-language=XML
+*.gml linguist-language=XML
+
+# Hacer que GitHub re-analice
+* linguist-detectable=true
