@@ -1,8 +1,5 @@
 # Archivos de proyecto Gephi
 *.gefx linguist-language=XML
-*.gexf linguist-language=XML
-*.graphml linguist-language=XML
-*.gml linguist-language=XML
 
 # Excluir archivos temporales y de backup
 *.gephi linguist-vendored
